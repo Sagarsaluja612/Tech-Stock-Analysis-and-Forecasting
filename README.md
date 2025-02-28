@@ -1,2 +1,2 @@
 # Tech-Stock-Analysis-and-Forecasting
-Machine Learning
+Stock Analysis and Forecasting using Machine Learning
